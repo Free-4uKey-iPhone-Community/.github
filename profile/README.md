@@ -12,8 +12,8 @@
 
 ## 📋 Explore Further  
 
-- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/4uKey-iPhone-Community/4uKey-iPhone-Unlock-Hub)  
-- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/4uKey-iPhone-Community/4uKey-iPhone-Unlock-Hub)  
+- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Free-4uKey-iPhone-Community/.github)  
+- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Free-4uKey-iPhone-Community/Free-4uKey-iPhone-Unlock-Hub)  
 
 ---
 
